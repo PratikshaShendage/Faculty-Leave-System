@@ -1,0 +1,95 @@
+@charset "ISO-8859-1";
+:root 
+{
+	display : block;
+}
+
+
+body 
+{
+	  background-image :url("images/login6.avif");
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  visibility: clear;
+	 }
+      
+.login
+{
+	height :430px;
+	width :500px;
+	/*background-color : rgba(255,255,255,0.3); */
+	margin-left: 400px;
+	margin-top :100px;
+	border: 4px solid silver;
+	box-shadow: 2px 2px 2px 2px;
+} 
+center
+{
+	margin-left: 550px;
+}
+header
+{
+
+	height: 80px;
+}
+ul li
+{
+	display: inline;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+	border: 2px solid black;
+	padding: 14px 16px;
+	margin-left: 40px;
+	
+}   
+
+.login h2 
+{
+	font-size : 50px;
+    color : black;
+    text-align :center;
+}  
+
+.textbox
+{
+	height : 50px;
+	width :300px;
+	margin : 25px 0px 0px 100px;
+	border-radius :40px ;
+	text-align :center;
+} 
+.button 
+{
+	height : 35px;
+	width : 150px;
+	font-size : 20px;
+	margin : 20px 0px 0px 150px;	
+	background-color : blue;
+	border-radius :40px;
+	color: white;
+}
+
+.forgot 
+{
+	font-size : 15px;
+	color : red;
+	margin-left : 170px;
+		
+}
+label 
+{
+	font-size : 15px;
+	color : goldenrod;
+	margin-top : 20px;
+	margin-left :150px;
+}
+
+.register 
+{
+	font-size : 15px;
+	color:navy;
+		
+}
+
+

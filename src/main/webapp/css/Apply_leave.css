@@ -1,0 +1,125 @@
+@charset "ISO-8859-1";
+ 
+ body
+ {
+	 background-image: url("image/");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	
+ }
+ 
+.sub
+{
+	height: 780px;
+	width: 500px;
+	margin: -900px 0px 20px 500px;
+	border: 2px solid black;
+	padding: 14px 16px;
+	background-color: lightcyan;
+}
+
+
+label
+{
+	display: block;
+	margin: 20px 0px 10px 80px;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+}
+
+
+.textbox
+{
+	height:40px ;
+	width:350px;
+	margin: 0px 0px 0px 80px;
+
+}
+
+.button
+{
+	margin-left: 170px;
+	height : 35px;
+	width : 150px;
+	font-size : 20px;
+	/*margin : 20px 0px 0px 150px;*/	
+	background-color :lightgreen;
+	border-radius :40px;
+	color: white;
+}
+
+.Main
+{
+	 background-color : white;
+}
+
+button
+{
+	height: 40px;
+	width: 200px;
+	border: 2px solid gray;
+	font-size: 20px;
+	background-color: whitesmoke;
+	margin: 0px 0px 0px 50px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+}
+.left-side
+{
+	height: 820px;
+	width: 100%;
+	background-color: pink;
+	
+}
+
+.sidebar
+{
+	height: 900px;
+	width: 300px;
+	border:  transparent;
+	margin : 0px 0px 0px 10px;
+	background :linear-gradient(45deg, #47cebe,  #ef4a82);
+     
+}
+
+.sidebar ul li:hover 
+{
+	
+ background: gray;
+ 
+}
+
+.sidebar ul li{
+	list-style: none;
+	width: 100%;
+}
+.title
+{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

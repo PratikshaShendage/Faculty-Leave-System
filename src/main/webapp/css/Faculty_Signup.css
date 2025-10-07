@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+.root
+{
+	display :block;
+}
+body
+{
+	background-image:  url("images/register.jpg");
+	background-repeat: no repeat;
+	background-size: cover;
+}
+center
+{
+	margin-left: 550px;
+}
+header
+{
+	background-color: skyblue;
+	height: 80px;
+}
+ul li
+{
+	display: inline;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+	border: 2px solid black;
+	padding: 14px 16px;
+	margin-left: 40px;
+	
+}
+.main
+{
+	height:625px;
+	width: 500px;
+	border : 1px solid white;
+    box-shadow: 5px 5px 5px 5px;
+	margin-left: 650px;
+	margin-top: 10px;
+	/*background-color: darkblue;*/
+	
+}
+.register
+{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+h2
+{
+	text-align: center;
+	font-family: bold;
+	font-size: 40px;
+}
+.button
+{
+	height: 40px;
+	width: 130px;
+	border-radius: 40px;
+	background-color:darkgreen;
+	color: white;
+	margin-left:200px;
+}
+
+.textbox
+{
+	margin-left: 120px;
+	height: 40px;
+	width: 250px;
+	border-radius: 25px;
+	text-align: center;
+	
+}
+label
+{
+font-size: 20px;
+margin-left: 100px;	
+}
+
+
+
+
+
+
